@@ -1,0 +1,1822 @@
+1: 13.75
+162.792V -0.18A 55.0Ah -0.0kW 8.7kWh
+162.777V -0.20A 55.0Ah -0.0kW 8.7kWh
+162.792V -0.23A 55.0Ah -0.0kW 8.7kWh
+0: -42.50
+1: 13.69
+162.792V -0.22A 55.0Ah -0.0kW 8.7kWh
+162.792V -0.20A 55.0Ah -0.0kW 8.7kWh
+162.777V -0.23A 55.0Ah -0.0kW 8.7kWh
+Starting Chademo process.
+Sent params to EVSE. Waiting.
+0: -42.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.296
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.301
+1: 13.75
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.394
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.399
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:14.406
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:14.414
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.435
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.440
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:14.447
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:14.496
+CAR:Charge enable ON
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.537
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.544
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:14.550
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:14.599
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.635
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.640
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:14.647
+162.792V -0.20A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 4
+EVSE: Measured Voltage: 1 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:14.766
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.775
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.780
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:14.786
+EVSE: Measured Voltage: 193 Current: 1 Time remaining: 0 Status: 100100 Time:0:0:14.816
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:14.837
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:14.843
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:14.850
+EVSE: Measured Voltage: 451 Current: 1 Time remaining: 0 Status: 100100 Time:0:0:14.885
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.934
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.940
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.946
+EVSE: Measured Voltage: 384 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.995
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.36
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.41
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.48
+EVSE: Measured Voltage: 287 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.99
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.143
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.148
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.155
+EVSE: Measured Voltage: 213 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.204
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.235
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.241
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.247
+EVSE: Measured Voltage: 164 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.296
+162.792V -0.22A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 4
+EVSE: Measured Voltage: 124 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.398
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.406
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.411
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.418
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.433
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.439
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.446
+EVSE: Measured Voltage: 94 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.495
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.536
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.542
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.548
+EVSE: Measured Voltage: 71 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.597
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.633
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.638
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.645
+EVSE: Measured Voltage: 55 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.696
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.732
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.739
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.745
+EVSE: Measured Voltage: 42 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.794
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:15.835
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:15.840
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:15.847
+EVSE: Measured Voltage: 32 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:15.896
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:16.932
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.938
+162.777V -0.23A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 4
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.35
+0: -42.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:16.95
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.100
+EVSE: Measured Voltage: 19 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:16.107
+EVSE: Measured Voltage: 25 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:16.115
+1: 13.75
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:16.188
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.193
+EVSE: Measured Voltage: 17 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:16.201
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.208
+CAR:Contactor close.
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: 8.67 Time:0:0:16.234
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.239
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.246
+EVSE: Measured Voltage: 165 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:16.295
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: 8.67 Time:0:0:16.331
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.337
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.344
+EVSE: Measured Voltage: 165 Current: 0 Time remaining: 5340 Status: 100100 Time:0:0:16.379
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: 8.67 Time:0:0:16.435
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.440
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.447
+EVSE: Measured Voltage: 165 Current: 0 Time remaining: 5340 Status: 100100 Time:0:0:16.482
+EVSE:stop charging.
+CAR:Current req to 0
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: 8.67 Time:0:0:16.532
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.537
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.544
+EVSE: Measured Voltage: 165 Current: 0 Time remaining: 5340 Status: 100100 Time:0:0:16.595
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: 8.67 Time:0:0:16.632
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.637
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.643
+CAR:Contactor OPEN
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:16.656
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.662
+162.777V -0.18A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 12
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:16.790
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: 8.67 Time:0:0:16.798
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:16.804
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:16.811
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 124 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:16.865
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 93 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.964
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 69 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.64
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 52 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.162
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 39 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.261
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+162.777V -0.20A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 11
+EVSE: Measured Voltage: 29 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.450
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 21 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.460
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 16 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.558
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 12 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.665
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 9 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.764
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+0: -42.50
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 6 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:17.890
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+1: 13.75
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 4 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.988
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 3 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.65
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+162.792V -0.22A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 11
+EVSE: Measured Voltage: 2 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.198
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 1 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.263
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 1 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.362
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.460
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.560
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.658
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+162.777V -0.18A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 11
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.837
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:18.859
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.958
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.64
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.163
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.261
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.360
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+162.777V -0.22A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 11
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.482
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.559
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+0: -42.50
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.688
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+1: 13.75
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.787
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:19.863
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.963
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.61
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+162.777V -0.18A 55.0Ah -0.0kW 8.7kWh
+Chademo Mode: 11
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.227
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.260
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.358
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.457
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.564
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.662
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+CAR:Contactor OPEN
+CAR:Charge Enable OFF
+Stopping chademo process.
+CAR: Contactor open
+CAR: Charge Enable OFF
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.756
+162.777V -0.18A 55.0Ah -0.0kW 8.7kWh
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:20.872
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100100 Time:0:0:21.957
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.8
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:21.108
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.156
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:21.255
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.305
+162.777V -0.22A 55.0Ah -0.0kW 8.7kWh
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:21.467
+0: -42.50
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.529
+1: 13.75
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:21.591
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.605
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:21.704
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.755
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:21.855
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:21.905
+EVSE: MaxVoltage: 505 Max Current:125 Threshold Voltage:182 Time:0:0:22.4
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 0 Status: 100000 Time:0:0:22.55
+162.777V -0.20A 55.0Ah -0.0kW 8.7kWh
+

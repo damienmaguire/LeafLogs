@@ -1,0 +1,38 @@
+164.070V -0.22A -0.0Ah -0.0kW -0.0kWh
+0: -42.50
+1: 11.00
+164.070V -0.22A -0.0Ah -0.0kW -0.0kWh
+164.070V -0.17A -0.0Ah -0.0kW -0.0kWh
+0: -42.50
+1: 11.00
+Starting Chademo process.
+Stopping chademo process.
+Starting Chademo process.
+Sent parameters to EVSE. Waiting.
+Setting begin charge request.
+164.070V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chamdemo Mode: 4
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+0: -42.50
+1: 11.00
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+164.070V -0.23A -0.0Ah -0.0kW -0.0kWh
+Chamdemo Mode: 4
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+0: -42.50
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+1: 11.00
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+
+

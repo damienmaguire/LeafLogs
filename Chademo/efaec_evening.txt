@@ -1,0 +1,3232 @@
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:16.434
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:16.434
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:17.023
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:17.023
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:17.701
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:17.701
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:18.279
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:18.279
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:18.865
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:18.865
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:19.544
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:19.544
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:20.126
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:20.126
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:20.705
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:20.705
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:21.387
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:21.387
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:21.968
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:21.968
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:22.547
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:22.547
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:23.226
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:23.226
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:23.813
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:23.813
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:24.392
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:24.392
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:25.076
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:25.076
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:25.657
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:25.657
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:26.293
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:26.293
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:26.929
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:26.929
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:27.513
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:27.513
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:28.197
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:28.197
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:28.777
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:28.777
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:29.358
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:29.358
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:30.042
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:30.042
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:30.621
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:30.621
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:31.211
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:31.211
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:31.890
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:31.890
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:32.478
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:32.478
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:33.059
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:33.059
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:33.743
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:33.743
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:34.324
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:34.324
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:34.904
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:34.904
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:35.588
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:35.588
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:36.170
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:36.170
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:36.749
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:36.749
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:37.434
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:37.434
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:38.015
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:38.015
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:38.595
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:38.595
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:39.281
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:39.281
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:39.862
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:39.862
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:43.689
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:43.689
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:44.271
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:44.271
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:44.852
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:44.852
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:45.531
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:45.531
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:46.112
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:46.112
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:46.691
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:46.691
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:47.379
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:47.379
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:47.960
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:47.960
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:48.642
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:48.642
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:49.221
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:49.221
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:49.803
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:49.803
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:50.488
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:50.488
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:51.067
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:51.067
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:51.656
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:51.656
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:52.334
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:52.334
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:52.921
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:52.921
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:53.500
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:53.500
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:54.179
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:54.179
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:54.766
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:54.766
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:55.345
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:55.345
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:56.024
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:56.024
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:56.612
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:56.612
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:57.192
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:57.192
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:57.877
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:57.877
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:58.458
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:58.458
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:59.038
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:59.038
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:00:59.725
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:00:59.725
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:00.306
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:00.306
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:00.937
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:00.937
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:01.572
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:01.572
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:02.157
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:02.157
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:02.841
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:02.841
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:03.420
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:03.420
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:04.006
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:04.006
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:04.686
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:04.686
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:05.264
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:05.264
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:05.851
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:05.851
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:06.531
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:06.531
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:07.112
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:07.112
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:07.691
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:07.691
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:08.376
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:08.376
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:08.956
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:08.956
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:09.534
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:09.534
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:10.214
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:10.214
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:10.796
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:10.796
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:11.374
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:11.374
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:12.059
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:12.059
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:12.641
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:12.641
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:13.273
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:13.273
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:13.907
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:13.907
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:14.495
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:14.495
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:15.177
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:15.177
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:15.755
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:15.755
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:16.339
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:16.339
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:17.023
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:17.023
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:17.602
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:17.602
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:18.191
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:18.191
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:18.869
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:18.869
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:19.457
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:19.457
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:20.036
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:20.036
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:20.715
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:20.715
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:21.301
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:21.301
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:21.880
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:21.880
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:22.559
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:22.559
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:23.146
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:23.146
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:23.725
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:23.725
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:24.412
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.412
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.716
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.716
+Rcvd msgID: 0x183; 00; 4B; 01; 00; 00; C1; 5D; 01  00:01:24.716
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.817
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.817
+Rcvd msgID: 0x183; 28; 4B; 01; E8; 03; 00; 00; 01  00:01:24.817
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.918
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.918
+Rcvd msgID: 0x183; 28; 4B; 01; E8; 03; 00; 00; 01  00:01:24.918
+Rcvd msgID: 0x404; 06; 6C; 00; 00; 00; 00; 00; 00  00:01:24.988
+Car: Measured Voltage: 164.00v Measured Current: 0.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:24.988
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.007
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.007
+Rcvd msgID: 0x183; 28; 4B; 01; E8; 03; 00; 00; 01  00:01:25.007
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.107
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.107
+Rcvd msgID: 0x183; 28; 4B; 01; E8; 03; 00; 00; 01  00:01:25.107
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.208
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.208
+Rcvd msgID: 0x183; 28; 4B; 01; E8; 03; 00; 00; 01  00:01:25.208
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.308
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.308
+Rcvd msgID: 0x183; 28; 4B; 01; E8; 03; 00; 00; 01  00:01:25.308
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.342
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:25.342
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.377
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.377
+Rcvd msgID: 0x183; 28; 4B; 01; E9; 03; 00; 00; 01  00:01:25.377
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.405
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:25.405
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.445
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.445
+Rcvd msgID: 0x183; 28; 4B; 01; E9; 03; 00; 00; 01  00:01:25.445
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.525
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:25.525
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.618
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.618
+Rcvd msgID: 0x183; 28; 4B; 01; E9; 03; 00; 00; 01  00:01:25.618
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.639
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:25.639
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.648
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.648
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:25.648
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.671
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.671
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x101; 00; FF; 5A; 3C; 00; 00; 00; 00  00:01:25.671
+LandYacht: Max charging time:90 minutes Estimated Time Remaining: 60  minutes
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.679
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.679
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:25.679
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.699
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.699
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.719
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.719
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.719
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:25.719
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.732
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.732
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.732
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.754
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.761
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:25.761
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.769
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.769
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.769
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.791
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.842
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.842
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.842
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:25.842
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.854
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.854
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.873
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.873
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.873
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:25.873
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.885
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.885
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.904
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.904
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.904
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:25.904
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.916
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.916
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.935
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.935
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.935
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:25.935
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.947
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.947
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.947
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.957
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:25.962
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:25.962
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.969
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:25.969
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:25.969
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:25.990
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.041
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.041
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.041
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.041
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.053
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.053
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.072
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.072
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.072
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.072
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.084
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.084
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.103
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.103
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.103
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.103
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.115
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.115
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.134
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.134
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.134
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.134
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.146
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.146
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.165
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.165
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.165
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.165
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.179
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.215
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.215
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.229
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.257
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.257
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.266
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.266
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.266
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.289
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.319
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.319
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.319
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.334
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.379
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.379
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.384
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.417
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.417
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.428
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.461
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.461
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.479
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.507
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.507
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.507
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.524
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.574
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.574
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.574
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.574
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.589
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.589
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.589
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.589
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.601
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.613
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.613
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.619
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.619
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.619
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.633
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.641
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.641
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.648
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.648
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.648
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.670
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.672
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.672
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.679
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.679
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.679
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.701
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.701
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.719
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.719
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.719
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.719
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.734
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.784
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.784
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.798
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.798
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.798
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.798
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.811
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.863
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.863
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.863
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.863
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.888
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.888
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.895
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:26.929
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:26.929
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:26.941
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.993
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:26.993
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:26.993
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:26.993
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.006
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.006
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.006
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.006
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.018
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.070
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.070
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.070
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.070
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.074
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.074
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.076
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.076
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.076
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.076
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.103
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.103
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.103
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.103
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.116
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.167
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.167
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.181
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.181
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.181
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.181
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.195
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.200
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.200
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.207
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.207
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.207
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.229
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.229
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.247
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.247
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.247
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.247
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.260
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.302
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.302
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.311
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.311
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.326
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.326
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.326
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.326
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.339
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.339
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.339
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.357
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.362
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.362
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.370
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.370
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.370
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.392
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.393
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.393
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.401
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.401
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.401
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.423
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.423
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.442
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.442
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.442
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.442
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.454
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.477
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.477
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.486
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.486
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.486
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.505
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.505
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.552
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.552
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.552
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.552
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.555
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.555
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.599
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.599
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.599
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.599
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.611
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.631
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.631
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.640
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.640
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.640
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.662
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.670
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.670
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.678
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.678
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.678
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.707
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.707
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.716
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.716
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.716
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.738
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.766
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x100; 00; 00; 00; 00; B6; 00; 0F; 00  00:01:27.766
+LandYacht: MAXIMUM Battery Voltage:182 Pack Capacity:15 kWh
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.766
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.783
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.783
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.802
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.802
+Rcvd msgID: 0x183; 28; 43; 01; EA; 03; 00; 00; 00  00:01:27.802
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.802
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.814
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.814
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.814
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.814
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.825
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:27.825
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.844
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.844
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:27.844
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.844
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.857
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.909
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.909
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:27.909
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.909
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.922
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.974
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:27.974
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:27.974
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:27.974
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:27.987
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.039
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.039
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.039
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.039
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.052
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.104
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.104
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.104
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.104
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.117
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:28.117
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.136
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.136
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.136
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.136
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.149
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.201
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.201
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.201
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.201
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.214
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.266
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.266
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.266
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.266
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.279
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.331
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.331
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.331
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.331
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.344
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.396
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.396
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.396
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.396
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.409
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.461
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.461
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.461
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.461
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.474
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.526
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.526
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.526
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.526
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.539
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.591
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.591
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.591
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.591
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.604
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.656
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.656
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.656
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.656
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.669
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.721
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.721
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.721
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.721
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.734
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.785
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.785
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.785
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.785
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.798
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.849
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.849
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.849
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.849
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.862
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x102; 02; B1; 00; 00; 00; 08; 00; 00  00:01:28.862
+CAR supports CHAdeMO Protocol Version 1.0 
+LandYacht:Target CHARGE Voltage: 177 v Requested Current: 0 Amps Battery SOC:0 kWh
+Vehicle Faults: 0
+Vehicle Status: 1000
+      Vehicle Charging DISABLED bit0
+      Vehicle Shift PARK bit1
+      Charging system normal bit2
+      Battery OverTemperature Condition bit3
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.882
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.882
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.882
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.882
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.894
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.945
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:28.945
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:28.945
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:28.945
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:28.958
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.009
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.009
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.009
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.009
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.021
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.072
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.072
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.072
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.072
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.085
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.136
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.136
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.136
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.136
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.149
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.200
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.200
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.200
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.200
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.212
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.263
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.263
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.263
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.263
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.275
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.326
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.326
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.326
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.326
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.338
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.389
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.389
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.389
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.389
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.401
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.452
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.452
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.452
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.452
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.464
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.515
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.515
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.515
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.515
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.527
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.578
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.578
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.578
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.578
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.590
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.641
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.641
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.641
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.641
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.653
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.704
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.704
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.704
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.704
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.716
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.767
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.767
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.767
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.767
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.779
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.831
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.831
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.831
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.831
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.843
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.894
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.894
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.894
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.894
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.906
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.958
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:29.958
+Rcvd msgID: 0x183; 28; 4B; 01; EA; 03; 00; 00; 01  00:01:29.958
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:29.958
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 20; FF; 5A  00:01:29.970
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 100000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Normal bit4
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.022
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.022
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.022
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.022
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.034
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.085
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.085
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.085
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.085
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.098
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.149
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.149
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.149
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.149
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.162
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.213
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.213
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.213
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.213
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.226
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.277
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.277
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.277
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.277
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.290
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.341
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.341
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.341
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.341
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.354
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.405
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.405
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.405
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.405
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.418
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.469
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.469
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.469
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.469
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.482
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.533
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.533
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.533
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.533
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x109; 01; 00; 00; 00; 00; 30; FF; 5A  00:01:30.546
+EVSE supports CHAdeMO Protocol Version 0.9 
+EVSE: Current CHARGE Voltage: 0 v Output Current: 0 A Charge Time Remaining:90 minutes 
+EVSE Status: 110000
+      EVSE Charging STANDBY bit0
+      Charger NORMAL bit1
+      Connector Lock UNLOCKED bit2
+      Battery compatible bit3
+      Charging System Malfunction bit4 
+      STOP Control: STOPPED bit5 
+
+Rcvd msgID: 0x181; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.597
+Rcvd msgID: 0x182; 00; 00; 00; 00; 00; 00; 00; 00  00:01:30.597
+Rcvd msgID: 0x183; 08; 4B; 01; D5; 07; C1; 5D; 01  00:01:30.597
+Rcvd msgID: 0x108; 00; F4; 01; 1A; B6; 00; 00; 00  00:01:30.597
+EVSE:Available CHARGE Voltage: 500 v Available Current: 26 A Threshold Voltage:182 v
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:31.111
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:31.111
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:31.697
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:31.697
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:32.276
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:32.276
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:32.963
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:32.963
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:33.542
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:33.542
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:34.120
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:34.120
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:34.804
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:34.804
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:35.388
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:35.388
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:36.070
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:36.070
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:36.649
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:36.649
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:37.230
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:37.230
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:37.914
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:37.914
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:38.493
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:38.493
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:39.082
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:39.082
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:39.760
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:39.760
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:40.343
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:40.343
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:40.922
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:40.922
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:41.605
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:41.605
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:42.186
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:42.186
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:42.765
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:42.765
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:43.450
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:43.450
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:44.034
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:44.034
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:44.613
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:44.613
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:45.294
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:45.294
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:45.877
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:45.877
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:46.456
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:46.456
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:47.142
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:47.142
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:47.724
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:47.724
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:48.355
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:48.355
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:48.990
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:48.990
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:49.577
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:49.577
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:50.259
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:50.259
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:50.838
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:50.838
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:51.426
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:51.426
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:52.105
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:52.105
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:52.684
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:52.684
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:53.274
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:53.274
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:53.951
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:53.951
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:54.531
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:54.531
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:55.112
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:55.112
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:55.795
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:55.795
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:56.376
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:56.376
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:56.956
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:56.956
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:57.638
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:57.638
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:58.219
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:58.219
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:58.799
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:58.799
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:01:59.486
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:01:59.486
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:02:00.067
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:02:00.067
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:02:00.698
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:02:00.698
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:02:01.333
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:02:01.333
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:02:01.919
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:02:01.919
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:02:02.603
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:02:02.603
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+
+Rcvd msgID: 0x404; 06; 6C; FF; FF; 00; 00; 00; 00  00:02:03.182
+Car: Measured Voltage: 164.00v Measured Current: 6553.00 A  AH:0.00 of 0 Car SOC:0%
+
+Rcvd msgID: 0x505; 00; 00; 00; 00; 00; 00; 00; 00  00:02:03.182
+Car: Instantaneous Charge Power: 0.00 watts  kWh: 0.00
+

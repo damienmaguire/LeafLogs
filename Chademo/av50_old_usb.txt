@@ -1,0 +1,268 @@
+ 9.63
+164.374V -0.12A -0.0Ah -0.0kW ovfkWh
+0: -45.00
+1: 9.63
+164.374V -0.15A -0.0Ah -0.0kW ovfkWh
+Starting Chademo process.
+Stopping chademo process.
+Starting Chademo process.
+Stopping chademo process.
+Starting Chademo process.
+Sent parameters to EVSE. Waiting.
+Tx
+Setting begin charge request.
+0: -45.00
+Tx
+164.374V -0.13A -0.0Ah -0.0kW ovfkWh
+Chamdemo Mode: 4
+EVSE reports time elapsed. Finishing.
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+Tx
+164.374V -0.20A -0.0Ah -0.0kW ovfkWh
+Chamdemo Mode: 4
+EVSE reports time elapsed. Finishing.
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+EVSE reports time elapsed. Finishing.
+1: 9.63
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+Tx
+Tx
+Tx
+164.374V -0.20A -0.0Ah -0.0kW ovfkWh
+Chamdemo Mode: 4
+EVSE reports time elapsed. Finishing.
+Tx
+Tx
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+Tx
+Tx
+Tx
+Tx
+EVSE reports time elapsed. Finishing.
+Tx
+Closing contactor
+Tx
+Tx
+164.374V -0.22A -0.0Ah -0.0kW ovfkWh
+Chamdemo Mode: 6
+0: -127.00
+Tx
+1: 9.63
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+164.404V -1.37A -0.0Ah -0.2kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+164.998V -25.67A -0.0Ah -4.2kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+165.348V -38.43A -0.0Ah -6.4kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+165.622V -48.70A -0.0Ah -8.1kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+165.956V -61.43A -0.0Ah -10.2kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+166.321V -73.37A -0.0Ah -12.2kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+166.641V -83.87A -0.1Ah -14.0kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+166.915V -92.68A -0.1Ah -15.5kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+Tx
+166.991V -92.48A -0.1Ah -15.4kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+167.037V -92.63A -0.1Ah -15.5kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+167.067V -92.08A -0.1Ah -15.4kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+0: -45.00
+Tx
+1: 9.63
+Tx
+Tx
+Tx
+167.113V -91.58A -0.1Ah -15.3kW ovfkWh
+Chamdemo Mode: 6
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+

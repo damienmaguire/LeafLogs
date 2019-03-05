@@ -1,0 +1,88 @@
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+0: -42.50
+1: 12.56
+164.252V -0.18A -0.0Ah -0.0kW -0.0kWh
+Starting Chademo process.
+Sent parameters to EVSE. Waiting.
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 12
+Setting begin charge request.
+164.237V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.237V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+1: 12.56
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.63
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+164.252V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.252V -0.23A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -42.50
+1: 12.56
+Stopping chademo process.
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+164.252V -0.22A -0.0Ah -0.0kW -0.0kWh
+

@@ -1,0 +1,93 @@
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+164.435V -0.14A -0.0Ah -0.0kW -0.0kWh
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+0: -41.00
+1: 14.19
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+0: -41.00
+1: 14.19
+164.435V -0.14A -0.0Ah -0.0kW -0.0kWh
+164.420V -0.11A -0.0Ah -0.0kW -0.0kWh
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+0: -41.00
+1: 14.19
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+164.435V -0.10A -0.0Ah -0.0kW -0.0kWh
+Starting Chademo process.
+Sent parameters to EVSE. Waiting.
+0: -41.00
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 2
+1: 14.19
+Setting begin charge request.
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -41.00
+1: 14.19
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -41.00
+1: 14.19
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -41.00
+1: 14.19
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+EVSE can't provide needed voltage. Aborting.
+0
+Setting current request to zero.
+Opening contactor
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+EVSE can't provide needed voltage. Aborting.
+0
+Setting current request to zero.
+Opening contactor
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+0: -41.00
+1: 14.19
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+EVSE can't provide needed voltage. Aborting.
+0
+Setting current request to zero.
+Opening contactor
+164.435V -0.14A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+0: -41.00
+1: 14.19
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+EVSE reports fault. Aborting.
+EVSE reports fault. Aborting.
+164.435V -0.13A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+EVSE reports fault. Aborting.
+EVSE reports fault. Aborting.
+EVSE reports fault. Aborting.
+EVSE reports fault. Aborting.
+EVSE reports fault. Aborting.
+EVSE reports fault. Aborting.
+164.435V -0.12A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 11
+EVSE reports fault. Aborting.
+0: -41.00
+Stopping chademo process.
+1: 14.19
+

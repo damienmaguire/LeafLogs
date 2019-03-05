@@ -1,0 +1,50 @@
+164.131V -0.15A 10.9Ah -0.0kW 1.7kWh
+164.131V -0.22A 10.9Ah -0.0kW 1.7kWh
+164.131V -0.17A 10.9Ah -0.0kW 1.7kWh
+0: -46.00
+1: 9.00
+164.131V -0.18A 10.9Ah -0.0kW 1.7kWh
+Starting Chademo process.
+Sent parameters to EVSE. Waiting.
+164.131V -0.25A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 2
+Setting begin charge request.
+0: -46.00
+1: 9.00
+164.131V -0.17A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 4
+164.131V -0.22A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 4
+164.131V -0.18A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 4
+Closing contactor
+0: -46.00
+1: 9.00
+EVSE requests we stop charging.
+EVSE reports time elapsed. Finishing.
+Setting current request to zero.
+164.131V -0.17A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 12
+Opening contactor
+164.131V -0.22A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 11
+164.131V -0.18A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 11
+0: -46.00
+1: 9.00
+164.131V -0.15A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 11
+164.131V -0.20A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 11
+164.131V -0.10A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 11
+0: -46.00
+1: 9.00
+164.146V -0.18A 10.9Ah -0.0kW 1.7kWh
+Chademo Mode: 11
+Stopping chademo process.
+164.131V -0.13A 10.9Ah -0.0kW 1.7kWh
+164.146V -0.20A 10.9Ah -0.0kW 1.7kWh
+0: -46.00
+1: 9.00
+

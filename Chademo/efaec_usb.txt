@@ -1,0 +1,448 @@
+162.761V -0.23A -7.7Ah -0.0kW -1.9kWh
+162.761V -0.20A -7.7Ah -0.0kW -1.9kWh
+162.746V -0.18A -7.7Ah -0.0kW -1.9kWh
+0: -44.50
+1: 10.56
+162.761V -0.17A -7.7Ah -0.0kW -1.9kWh
+Starting Chademo process.
+Sent params to EVSE. Waiting.
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: -1.95 Time:0:0:44.-549
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-544
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-505
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-476
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1000 kWh: -1.95 Time:0:0:44.-447
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-441
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-403
+CAR:Charge enable ON
+162.761V -0.20A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 12
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-285
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:44.-277
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-272
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-265
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:44.-249
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-244
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-205
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-176
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:44.-147
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-141
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-103
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-73
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:44.-50
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-45
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-6
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-976
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:44.-947
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-941
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-903
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-874
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:44.-850
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:44.-845
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:44.-807
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:44.-777
+162.761V -0.23A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+0: -44.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-600
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-594
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-587
+1: 10.56
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-526
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-521
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-482
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-453
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-444
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-438
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-400
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-371
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-351
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-346
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-307
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-278
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-249
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-243
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-204
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-175
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-152
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-146
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-108
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-78
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-49
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-43
+162.761V -0.20A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-916
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-911
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-903
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-873
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-852
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-846
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-808
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-777
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-752
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-747
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:45.-708
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:45.-679
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:45.-650
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:45.-644
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-606
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100000 Time:0:0:46.-576
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-553
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-547
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-509
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:46.-479
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-452
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-447
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-409
+162.761V -0.20A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:46.-289
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-281
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-276
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-269
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-253
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-247
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-210
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:46.-180
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-150
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-144
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-105
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:46.-75
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-53
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-48
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-10
+EVSE: Measured Voltage: 0 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:46.-980
+0: -44.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-893
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-888
+1: 10.56
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-795
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-790
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-753
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-747
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:46.-709
+EVSE: Measured Voltage: 14 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:46.-679
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:46.-653
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:46.-648
+162.761V -0.23A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-540
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-535
+EVSE: Measured Voltage: 68 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-527
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-496
+EVSE: Measured Voltage: 132 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-466
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-454
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-449
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-409
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-380
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-351
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-345
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-307
+EVSE: Measured Voltage: 221 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-278
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-254
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-249
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-210
+EVSE: Measured Voltage: 260 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-180
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-155
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-150
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-110
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-105
+EVSE: Measured Voltage: 294 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-79
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-54
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-49
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-10
+162.761V -0.20A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+EVSE: Measured Voltage: 333 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-910
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-902
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-896
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-858
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-850
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-845
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-806
+EVSE: Measured Voltage: 386 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-776
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-755
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-750
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-711
+EVSE: Measured Voltage: 404 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:47.-682
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:47.-653
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:47.-647
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:47.-609
+EVSE: Measured Voltage: 419 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-579
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-556
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-551
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-512
+EVSE: Measured Voltage: 432 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-482
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-453
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-447
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-408
+EVSE: Measured Voltage: 447 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-379
+162.746V -0.23A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-278
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-273
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-266
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-256
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-250
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-212
+EVSE: Measured Voltage: 466 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-182
+0: -44.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-96
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-91
+1: 10.56
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-998
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-993
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-956
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-950
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-912
+EVSE: Measured Voltage: 433 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-882
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-854
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-848
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-810
+EVSE: Measured Voltage: 291 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-781
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-757
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-752
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:48.-713
+EVSE: Measured Voltage: 216 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:48.-683
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:48.-655
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:48.-648
+162.746V -0.18A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-550
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-545
+EVSE: Measured Voltage: 160 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-537
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-506
+EVSE: Measured Voltage: 107 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-476
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-457
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-452
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-414
+EVSE: Measured Voltage: 79 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-384
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-355
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-348
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-310
+EVSE: Measured Voltage: 58 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-280
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-248
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-243
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-205
+EVSE: Measured Voltage: 38 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-175
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-156
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-150
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-112
+EVSE: Measured Voltage: 28 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-82
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-58
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-53
+162.761V -0.22A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 4
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-924
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-918
+EVSE: Measured Voltage: 20 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-910
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-880
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1001 kWh: -1.95 Time:0:0:49.-858
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-853
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-814
+CAR:Contactor close.
+EVSE: Measured Voltage: 18 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-784
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:49.-756
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-750
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-709
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:49.-682
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:49.-659
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:49.-653
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:49.-615
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-584
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-556
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-551
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-511
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-482
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-460
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-453
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-416
+162.761V -0.18A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-305
+0: -44.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-245
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-239
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-232
+1: 10.56
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-170
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-160
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-154
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-116
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-86
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-57
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-52
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-13
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-983
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-960
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-955
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-916
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-886
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-858
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-852
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-813
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-784
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:50.-760
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:50.-755
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:50.-716
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:50.-687
+162.761V -0.22A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-578
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-572
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-565
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-555
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-549
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-511
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-482
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-452
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-446
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-408
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-378
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-360
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-355
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-316
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-286
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-262
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-255
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-218
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-188
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-158
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-153
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-114
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-84
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-62
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-56
+162.761V -0.20A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-940
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-934
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-926
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-896
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-866
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-858
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-852
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-814
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-784
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-762
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-757
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-718
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:51.-688
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:51.-663
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:51.-656
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:51.-617
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-588
+0: -44.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-502
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-497
+1: 10.63
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-403
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-398
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-360
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-355
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-316
+162.761V -0.22A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-198
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-189
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-184
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-177
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-163
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-158
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-120
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-90
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-60
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-55
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-16
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-987
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-963
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-958
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-919
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-889
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-861
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-856
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-817
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-787
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:52.-763
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:52.-758
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:52.-719
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:52.-690
+162.761V -0.27A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-562
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-556
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-548
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-518
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-488
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-464
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-458
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-419
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-391
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-361
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-356
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-317
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-287
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-265
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-259
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-220
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-190
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-162
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-157
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-118
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-89
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-65
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-59
+162.761V -0.17A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-943
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-937
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-930
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-899
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-869
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-861
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-856
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:53.-817
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:53.-788
+0: -44.50
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-708
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:53.-703
+1: 10.56
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:53.-609
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-604
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-565
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-560
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-521
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-492
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-463
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-458
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-419
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-389
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-366
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-361
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-322
+162.761V -0.17A -7.7Ah -0.0kW -1.9kWh
+Chademo Mode: 6
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-204
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-196
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-191
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-183
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-164
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-159
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-120
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-90
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-67
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-61
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-22
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-992
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-965
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-960
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-921
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-892
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-858
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-852
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-814
+EVSE: Measured Voltage: 163 Current: 0 Time remaining: 5400 Status: 100100 Time:0:0:54.-784
+CAR: Protocol:2 Target Voltage: 177 Current Command: 0 Faults: 0 Status: 1 kWh: -1.95 Time:0:0:54.-766
+CAR: Absolute MAX Voltage:182 Pack size: 15.00 Time:0:0:54.-760
+EVSE: MaxVoltage: 500 Max Current:26 Threshold Voltage:182 Time:0:0:54.-722
+

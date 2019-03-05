@@ -1,0 +1,94 @@
+162.670V -0.23A -0.0Ah -0.0kW -0.0kWh
+0: -43.00
+1: 12.38
+162.670V -0.22A -0.0Ah -0.0kW -0.0kWh
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+0: -43.00
+1: 12.38
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Starting Chademo process.
+Sent parameters to EVSE. Waiting.
+Setting begin charge request.
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 12
+0: -43.00
+1: 12.38
+162.670V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+162.670V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+1: 12.38
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.38
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.17A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.38
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.44
+162.670V -0.23A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.38
+162.670V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.38
+162.670V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.38
+162.670V -0.20A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.17A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.44
+162.670V -0.25A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.23A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+162.670V -0.22A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+0: -43.00
+1: 12.44
+162.670V -0.18A -0.0Ah -0.0kW -0.0kWh
+Chademo Mode: 4
+Stopping chademo process.
+162.670V -0.23A -0.0Ah -0.0kW -0.0kWh
+0: -43.00
+1: 12.38
+
